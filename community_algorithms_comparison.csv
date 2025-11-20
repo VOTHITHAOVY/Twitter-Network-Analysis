@@ -1,0 +1,4 @@
+algorithm,n_communities,modularity,execution_time,status
+Louvain,59,0.8132597081286532,0.013029336929321289,Success
+Greedy Modularity,59,0.8089210799956973,0.014135599136352539,Success
+Label Propagation,78,0.7053677076983763,0.009613513946533203,Success
