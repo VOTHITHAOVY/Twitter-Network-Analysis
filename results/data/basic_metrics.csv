@@ -1,0 +1,2 @@
+nodes,edges,density,directed,avg_in_degree,avg_out_degree,max_in_degree,max_out_degree,weakly_connected,strongly_connected,num_weakly_components,largest_wcc_size,num_strongly_components,largest_scc_size,diameter,radius,avg_clustering,avg_shortest_path,reciprocity,degree_assortativity
+256491,328132,4.987765389171601e-06,True,1.2793119446686239,1.2793119446686239,14060,134,False,False,13199,223833,255002,984,inf,inf,0.008339832555232622,inf,0.00462009191422964,-0.011766386729934703
